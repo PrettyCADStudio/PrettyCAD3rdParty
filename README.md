@@ -8,3 +8,4 @@
 - [PugiXml](https://pugixml.org/) 1.15
 - [CxxOpts](https://github.com/zhuuuoyue/cxxopts) master branch
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) 3.4.0
+- [OCCT](https://dev.opencascade.org/release) 7.9.1
