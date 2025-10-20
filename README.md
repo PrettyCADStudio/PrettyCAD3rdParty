@@ -9,3 +9,15 @@
 - [CxxOpts](https://github.com/zhuuuoyue/cxxopts) master branch
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) 3.4.0
 - [OCCT](https://dev.opencascade.org/release) 7.9.1
+  - angle-gles2 2.1.0
+  - ffmpeg 3.3.4
+  - freeimage 3.18.0
+  - freetype 2.13.3
+  - gl2ps 1.3.8
+  - glfw 3.4
+  - jemalloc
+  - lzma 5.2.2
+  - openvr 1.14.15
+  - tbb 2021.13.0
+  - vtk 9.4.1
+  - zlib 1.2.8
