@@ -7,6 +7,7 @@
 - [CrossGuid](https://github.com/zhuuuoyue/crossguid) commit id: ca1bf4b810e2d188d04cb6286f957008ee1b7681
 - [SARibbon](https://github.com/zhuuuoyue/SARibbon) tag: v2.4.2
 - [PugiXml](https://pugixml.org/) 1.15
+- [RapidJSON](https://github.com/zhuuuoyue/rapidjson) commit id: 24b5e7a8b27f42fa16b96fc70aade9106cf7102f
 - [CxxOpts](https://github.com/zhuuuoyue/cxxopts) master branch
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) 3.4.0
 - [OCCT](https://dev.opencascade.org/release) 7.9.1
