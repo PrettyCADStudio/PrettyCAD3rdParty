@@ -4,6 +4,7 @@
 
 - QT 5.14.2
 - Google Test
+- [CrossGuid](https://github.com/zhuuuoyue/crossguid) commit id: ca1bf4b810e2d188d04cb6286f957008ee1b7681
 - [SARibbon](https://github.com/zhuuuoyue/SARibbon) tag: v2.4.2
 - [PugiXml](https://pugixml.org/) 1.15
 - [CxxOpts](https://github.com/zhuuuoyue/cxxopts) master branch
