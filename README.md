@@ -5,6 +5,7 @@
 - QT 5.14.2
 - Google Test
 - [CrossGuid](https://github.com/zhuuuoyue/crossguid) commit id: ca1bf4b810e2d188d04cb6286f957008ee1b7681
+- [Zipper](https://github.com/zhuuuoyue/zipper) commit id: 0351dc781da5074956df3aee47f51bc31176c628
 - [SARibbon](https://github.com/zhuuuoyue/SARibbon) tag: v2.4.2
 - [PugiXml](https://pugixml.org/) 1.15
 - [RapidJSON](https://github.com/zhuuuoyue/rapidjson) commit id: 24b5e7a8b27f42fa16b96fc70aade9106cf7102f
