@@ -27,4 +27,4 @@
 
 Pretty CAD Studio 内部库：
 
-- [PrettyMemory](https://github.com/PrettyCADStudio/PrettyMemory) commit id: 35e61c7ade49169cfbcb66ce0749bbad395ddb2c
+- [PrettyMemory](https://github.com/PrettyCADStudio/PrettyMemory) commit id: b1b935c60b784c6dcdefc528a2e00f6513a465d6
