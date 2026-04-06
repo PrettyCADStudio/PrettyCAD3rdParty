@@ -24,3 +24,7 @@
   - tbb 2021.13.0
   - vtk 9.4.1
   - zlib 1.2.8
+
+Pretty CAD Studio 内部库：
+
+- [PrettyMemory](https://github.com/PrettyCADStudio/PrettyMemory) commit id: 35e61c7ade49169cfbcb66ce0749bbad395ddb2c
