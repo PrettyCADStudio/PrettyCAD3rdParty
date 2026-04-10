@@ -11,6 +11,7 @@
 - [RapidJSON](https://github.com/zhuuuoyue/rapidjson) commit id: 24b5e7a8b27f42fa16b96fc70aade9106cf7102f
 - [CxxOpts](https://github.com/zhuuuoyue/cxxopts) master branch
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) 3.4.0
+- [ProtoBuf](https://github.com/protocolbuffers/protobuf/releases/tag/v34.1) v34.1
 - [OCCT](https://dev.opencascade.org/release) 7.9.1
   - angle-gles2 2.1.0
   - ffmpeg 3.3.4
