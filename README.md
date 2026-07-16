@@ -3,7 +3,7 @@
 第三方库版本信息：
 
 - QT 5.14.2
-- Google Test
+- [Google Test](https://github.com/zhuuuoyue/googletest) commit id: a25f43576effe4ebe887412a603cddfa8fc3ba64
 - [CrossGuid](https://github.com/zhuuuoyue/crossguid) commit id: ca1bf4b810e2d188d04cb6286f957008ee1b7681
 - [Zipper](https://github.com/zhuuuoyue/zipper) commit id: 0351dc781da5074956df3aee47f51bc31176c628
 - [SARibbon](https://github.com/zhuuuoyue/SARibbon) tag: v2.4.2
